@@ -1,6 +1,6 @@
 # Herramienta de Documentación de Store Procedures SQL 🚀
 
-[English](https://github.com/Cbas12/store_procedure_documentation_tool/blob/main/README.md)
+[English](https://github.com/Cbas12/store_procedure_documentation_tool)
 
 Una solución automatizada diseñada para extraer, analizar y documentar Store Procedures de SQL Server utilizando Python e IA Generativa.
 
